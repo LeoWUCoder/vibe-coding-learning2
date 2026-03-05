@@ -1,0 +1,17 @@
+{
+	"servers": {
+		"weather": {
+			"type": "stdio",
+			"command": "uv",
+			"args": [
+				"--directory",
+				"C:\\Users\\Z0328928\\OneDrive - ZF Friedrichshafen AG\\Desktop\\Vibe coding learning\\MCP server\\weather",
+				"run",
+				"python",
+				"-u",
+				"main.py"
+			]
+		}
+	},
+	"inputs": []
+}

@@ -1,0 +1,14 @@
+{
+  "server": {
+    "url": "http://localhost:8000",
+    "token": "TEST_TOKEN"
+  },
+  "upload": {
+    "target": "result",
+    "rename": false
+  },
+  "meta": {
+    "environment": "dev-local",
+    "note": "仅用于技能联调测试，非生产用途。"
+  }
+}
