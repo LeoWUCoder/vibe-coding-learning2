@@ -1,0 +1,7 @@
+{
+  "pasteImage.path": "${currentFileDir}/images",
+  "pasteImage.basePath": "${currentFileDir}",
+  "pasteImage.prefix": "<center>\n  <img src=\"",
+  "pasteImage.suffix": "\" alt=\"image\">\n</center>",
+  "pasteImage.forceUnixStyleSeparator": true
+}
